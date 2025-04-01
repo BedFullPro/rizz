@@ -1,0 +1,1 @@
+ssh -i "my-web-server-key-pair.pem" ec2-user@ec2-3-142-49-236.us-east-2.compute.amazonaws.com
